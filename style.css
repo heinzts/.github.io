@@ -1,4 +1,4 @@
-@@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body {
   color: #555;
@@ -83,8 +83,9 @@ a:hover {
   padding: 60px 0;
 }
 
-.content:nth-child(even) {
+.post:nth-child(even) {
   background-color: #fafafa;
+  width:100%;
 }
 
 .about {
